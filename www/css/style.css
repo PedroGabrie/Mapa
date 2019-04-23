@@ -1,0 +1,60 @@
+/**/
+body {
+  background-color: lightblue;
+
+}
+
+h1 {
+
+ color: rgb(0, 15, 9);
+  font-style: normal;;
+  font-size: 38px;
+  
+ border-style: solid;
+  border-width: 5px;
+
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:0px;
+	font-weight:900;
+  
+}
+p {
+  background-color: transparent rgb(255, 255, 255); 
+  color: black; 
+  border: 3px solid rgb(3, 3, 3);
+  width: 400px
+  marginto top,150px;
+  text-transform: uppercase;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  padding: 0px;
+  font-weight:900; 
+
+  
+}
+#btn{
+  padding-left: 55px;
+  padding-right: 55px;
+
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #131212;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+
+}
+
+#map{
+  width: 100%;
+  height: 300px;
+}
+
+
+
