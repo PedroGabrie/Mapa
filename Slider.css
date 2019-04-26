@@ -1,0 +1,136 @@
+body{
+
+
+}
+
+
+
+ button{
+margin-left: 200px;
+margin-top : 30px;
+height: 40px;
+width: 300px;
+
+
+}
+
+h2{
+
+
+
+ font-size: 60px;
+
+}
+
+.modal-footer button{
+margin-left: 150px;
+margin-top : 0px;
+height: 40px;
+width: 100px;
+
+
+}
+
+
+.modal-footer1 button{
+margin-left: 190px;
+margin-top : 10px;
+height: 40px;
+width: 100px;
+
+
+}
+
+.modal-footer1{
+
+margin-top : 0px;
+margin-left: 300px;
+
+
+
+}
+
+.bus{
+
+margin-left: 190px;
+margin-top: 20px;
+
+
+}
+.bus button{
+
+  margin-left: 190px;
+  margin-top : 30px;
+  height: 40px;
+  width: 100px;
+
+
+}
+
+
+
+
+.menu{
+             width: 100%;
+             height: 40px;
+             background-color: #000;
+             color:#fff;
+             font-size: 20px;
+             text-align: center;
+        }
+        .menu  ul li{
+            display: inline; /*Altera a propriedade do display da tag li colocando todas na mesma linha*/
+        }
+        .menu ul li a{
+            text-decoration: none; /*Tira o sublinhado do link*/
+            color:#fff;
+            margin: 0 10px;
+        }
+        .menu ul li a:hover{
+            color: #ff0;
+        }
+
+
+
+
+
+
+
+footer {
+
+    background-color: rgb(1, 1, 1);
+    width: 100%;
+    margin-right: 300px;
+    height : 70px;
+    margin-top: 30px;
+
+}
+
+
+footer p {
+
+    color: rgb(255, 245, 244);
+    text-align: center;
+
+
+}
+
+.carousel-inner {
+
+width : 1600px;
+height: 850px;
+
+
+
+}
+
+
+.carousel-inner p {
+
+text-align :center;
+
+}
+
+.carouselSlide{
+  width:100%
+}

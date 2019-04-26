@@ -1,0 +1,20 @@
+.row button
+{
+  float:left;
+  color: rgb(111, 15, 224);
+}
+img{
+
+padding: 20px 20px;
+
+
+}
+.glyphicon-ok-sign{
+  color:#3CB371
+}
+.glyphicon-remove-sign{
+  color:#FF0000
+}
+.glyphicon-minus-sign{
+  color:#6C7B8B
+}

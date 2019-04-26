@@ -1,0 +1,25 @@
+.row h1{
+
+    color: rgba(198, 14, 228, 0.93);
+    text-align: center;
+
+}
+.row {
+
+    background-color: rgb(218, 25, 25);
+
+
+}
+
+.container {
+
+background-color: rgb(4, 240, 218)
+
+
+}
+
+.jumbotron{
+
+    background-color: rgb(149, 237, 5);
+
+}

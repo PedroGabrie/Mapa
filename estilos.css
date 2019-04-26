@@ -1,0 +1,27 @@
+body{
+  background-color: rgb (40, 92, 154);
+}
+
+.site{
+    background-color: #fff;
+
+}
+
+.rodape{
+    height : 90px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+
+}
+
+.rodape p{
+    margin-top: 40px;
+
+}
+
+.button1 button
+{
+  margin-left: 450px;
+
+}

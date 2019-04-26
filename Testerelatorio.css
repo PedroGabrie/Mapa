@@ -1,0 +1,42 @@
+body{
+
+    background-color: rgb(228, 108, 116);
+
+}
+
+.jumbotron{
+
+
+    background-color: rgb(95, 92, 255);
+
+}
+
+.jumbotron h1{
+
+    font-family: Rosewood Std Regular;
+    font-size: 90px;
+}
+
+.row {
+
+    margin-top: 30px;
+
+}
+
+.rodape{
+
+    background-color: rgb(0, 0, 0);
+    height : 90px;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+
+.rodape p{
+
+color: rgb(231, 239, 240);
+width: 100%;
+
+}

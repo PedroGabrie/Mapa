@@ -1,0 +1,130 @@
+body{
+
+  background-color: rgb(250, 250, 255);
+
+
+}
+
+
+
+.jumbotron{
+
+    background-color: rgb(250, 250, 255);
+
+}
+
+.espa {
+
+  margin-left: 200px;
+}
+
+
+.row img{
+
+float left: 100px;
+
+}
+
+.quadroImagem img{
+ margin-left:500px;
+ margin-top: -220px;
+}
+
+.row h3{
+  font-size: 40px;
+  text-align: left;
+  font-family: Adobe Garamond Pro;
+color:rgb(32, 88, 142)
+
+}
+
+
+.jumbotron h1{
+
+font-size: 75px;
+text-align: center;
+font-family: Adobe Garamond Pro;
+
+
+}
+.col-md-6 p{
+margin-top: -5px;
+text-align: left;
+font-family: Adobe Garamond Pro;
+font-size: 20px;
+
+
+}
+
+
+.row1 h2{
+
+text-align: center;
+font-family: Adobe Garamond Pro;
+
+
+}
+
+.row1 p{
+
+text-align: left;
+font-family: Adobe Garamond Pro;
+font-size: 17px;
+
+}
+
+{
+
+
+
+}
+
+.row1{
+
+margin-left: 200px;
+margin-top: 200px;
+
+}
+
+.botao button{
+
+    margin-left: 350px;
+    margin-top: 70px;
+    text-decoration: none;
+
+}
+
+.row2 a{
+
+text-decoration: none;
+
+}
+
+
+.row2 button{
+
+
+    margin-top: 50px;
+
+
+}
+
+
+footer {
+
+    background-color: rgb(1, 1, 1);
+    width: 100%;
+    margin-right: 300px;
+    height : 70px;
+    margin-top: 30px;
+
+}
+
+
+footer p {
+
+    color: rgb(255, 245, 244);
+    text-align: center;
+
+
+}
